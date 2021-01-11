@@ -1,0 +1,26 @@
+.calu{
+    width: 400px;
+    height: 550px;
+    background-color: grey;
+    border: solid 2px;
+    margin-left: 40%;
+}
+#screen{
+    width: 80%;
+    height: 80px;
+    margin-left: 35px;
+    margin-top: 30px;
+    pointer-events:none;
+    font-size: 75px;
+    font-weight: bold;
+    text-align: right;
+}
+.btn{
+    width: 50px;
+    height: 55px;
+    margin-left: 38px;
+    margin-top: 26px;
+}
+.btn :hover{
+    background-color: black;
+}
